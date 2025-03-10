@@ -1,1 +1,8 @@
+#General Files
+.gitignore
+node_modules
+
+
+
+#Secrets and keys
 .env
