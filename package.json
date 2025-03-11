@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@genkit-ai/googleai": "^1.1.0",
+    "dotenv": "^16.4.7",
+    "genkit": "^1.1.0"
+  },
+  "devDependencies": {
+    "genkit-cli": "^1.1.0",
+    "tsx": "^4.19.3"
+  },
+  "name": "genkit-multi-agent",
+  "version": "1.0.0",
+  "description": "This repository is a demonstration of Multi Agent implementation using Genkit from Google Firebase.",
+  "main": "multi-agent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
